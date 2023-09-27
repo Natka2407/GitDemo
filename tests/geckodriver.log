@@ -1,0 +1,299 @@
+1691436962474	geckodriver	INFO	Listening on 127.0.0.1:50319
+1691436965578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50320" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\natal\\AppData\\Local\\Temp\\rust_mozprofileDSUEeJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691436967660	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691436967751	Marionette	INFO	Listening on port 50330
+WebDriver BiDi listening on ws://127.0.0.1:50320
+Read port: 50330
+1691436967997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50320/devtools/browser/f44bd4d5-a596-4aaa-a14f-4d735cf14cd8
+1691436973044	Marionette	INFO	Stopped listening on port 50330
+Dynamically enable window occlusion 1
+[Parent 11400, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20880, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11400, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20880, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11400, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20880, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11400, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20880, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11400, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20880, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11400, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20880, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691488668242	geckodriver	INFO	Listening on 127.0.0.1:49826
+1691488671370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\natal\\AppData\\Local\\Temp\\rust_mozprofilehdgKZN"
+1691488743849	geckodriver	INFO	Listening on 127.0.0.1:49944
+1691488746933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\natal\\AppData\\Local\\Temp\\rust_mozprofilehgh3q4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691488747466	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691488747540	Marionette	INFO	Listening on port 49952
+WebDriver BiDi listening on ws://127.0.0.1:49945
+Read port: 49952
+1691488747767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49945/devtools/browser/6f94d74d-f68c-4242-8800-21e4b4d0d282
+1691488753072	Marionette	INFO	Stopped listening on port 49952
+Dynamically enable window occlusion 1
+[Parent 11340, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20844, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11340, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20844, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11340, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20844, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11340, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20844, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11340, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20844, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11340, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20844, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1695220041738	geckodriver	INFO	Listening on 127.0.0.1:57929
+1695220044843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57930" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\natal\\AppData\\Local\\Temp\\rust_mozprofileHPoCIp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695220046733	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695220046827	Marionette	INFO	Listening on port 57938
+WebDriver BiDi listening on ws://127.0.0.1:57930
+Read port: 57938
+1695220047074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:57930/devtools/browser/45f0288f-f149-4fc5-aeea-85bc04e521ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+1695220070840	Marionette	INFO	Stopped listening on port 57938
+JavaScript warning: https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js, line 20: Script terminated by timeout at:
+c@https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js:20:64623
+
+Dynamically enable window occlusion 1
+1695220089008	geckodriver	INFO	Listening on 127.0.0.1:58002
+1695220092084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\natal\\AppData\\Local\\Temp\\rust_mozprofile25p80o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695220092525	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695220092600	Marionette	INFO	Listening on port 58010
+WebDriver BiDi listening on ws://127.0.0.1:58003
+Read port: 58010
+1695220092842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58003/devtools/browser/57cfbf33-fbe2-440a-be1d-a24fe3aca3db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+1695220105303	Marionette	INFO	Stopped listening on port 58010
+Dynamically enable window occlusion 1
+1695220123302	geckodriver	INFO	Listening on 127.0.0.1:58060
+1695220126364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\natal\\AppData\\Local\\Temp\\rust_mozprofilePGR4xz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695220126797	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695220126868	Marionette	INFO	Listening on port 58068
+WebDriver BiDi listening on ws://127.0.0.1:58061
+Read port: 58068
+1695220127087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58061/devtools/browser/2b933385-13ae-45c7-8218-f31ce0b8d9d2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+1695220142502	Marionette	INFO	Stopped listening on port 58068
+Dynamically enable window occlusion 1
+1695220160919	geckodriver	INFO	Listening on 127.0.0.1:58117
+1695220164000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\natal\\AppData\\Local\\Temp\\rust_mozprofileRvmURo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695220164423	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695220164493	Marionette	INFO	Listening on port 58127
+WebDriver BiDi listening on ws://127.0.0.1:58118
+Read port: 58127
+1695220164708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58118/devtools/browser/20161f4d-b7bd-43c0-99f3-86d842d11ca3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+1695220177843	Marionette	INFO	Stopped listening on port 58127
+JavaScript warning: https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js, line 20: Script terminated by timeout at:
+c@https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js:20:64623
+
+Dynamically enable window occlusion 1
+1695220196545	geckodriver	INFO	Listening on 127.0.0.1:58224
+1695220199655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\natal\\AppData\\Local\\Temp\\rust_mozprofileBL0TMk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695220200134	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695220200210	Marionette	INFO	Listening on port 58234
+WebDriver BiDi listening on ws://127.0.0.1:58225
+Read port: 58234
+1695220200441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58225/devtools/browser/aaa62bae-769d-4345-aa70-04bc2f851163
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+1695220216170	Marionette	INFO	Stopped listening on port 58234
+JavaScript warning: https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js, line 20: Script terminated by timeout at:
+c@https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js:20:64623
+
+Dynamically enable window occlusion 1
+1695220236037	geckodriver	INFO	Listening on 127.0.0.1:58281
+1695220239095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58282" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\natal\\AppData\\Local\\Temp\\rust_mozprofileFAd4XM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695220239553	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695220239631	Marionette	INFO	Listening on port 58289
+WebDriver BiDi listening on ws://127.0.0.1:58282
+Read port: 58289
+1695220239823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58282/devtools/browser/e93f7801-93e9-4d44-ba47-a5f6421c4e1d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+1695220256089	Marionette	INFO	Stopped listening on port 58289
+Dynamically enable window occlusion 1
+1695220274290	geckodriver	INFO	Listening on 127.0.0.1:58386
+1695220277335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\natal\\AppData\\Local\\Temp\\rust_mozprofilegYdw95"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695220277776	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695220277876	Marionette	INFO	Listening on port 58395
+WebDriver BiDi listening on ws://127.0.0.1:58387
+Read port: 58395
+1695220278039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58387/devtools/browser/e10cc6b9-c0f4-4f64-8369-03693c3789e4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+1695220293120	Marionette	INFO	Stopped listening on port 58395
+Dynamically enable window occlusion 1
+1695220801087	geckodriver	INFO	Listening on 127.0.0.1:58543
+1695220804151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofilekcozXB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695220804634	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695220804724	Marionette	INFO	Listening on port 58551
+WebDriver BiDi listening on ws://127.0.0.1:58544
+Read port: 58551
+1695220804975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:58544/devtools/browser/8a19bf08-7781-4056-92a9-afbb7ccba55f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+1695220830711	Marionette	INFO	Stopped listening on port 58551
+JavaScript warning: https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js, line 20: Script terminated by timeout at:
+c@https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js:20:64623
+
+Dynamically enable window occlusion 1
+1695220855717	geckodriver	INFO	Listening on 127.0.0.1:58608
+1695220858787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileuwgGQf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695220859277	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695220859373	Marionette	INFO	Listening on port 58616
+WebDriver BiDi listening on ws://127.0.0.1:58609
+Read port: 58616
+1695220859628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:58609/devtools/browser/c8cf77f0-f49c-4ae2-81d3-81a04399b768
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+1695220884436	Marionette	INFO	Stopped listening on port 58616
+JavaScript warning: https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js, line 20: Script terminated by timeout at:
+c@https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js:20:64623
+
+Dynamically enable window occlusion 1
+1695220911966	geckodriver	INFO	Listening on 127.0.0.1:58681
+1695220915030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofilenAUquU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695220915508	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695220915598	Marionette	INFO	Listening on port 58698
+WebDriver BiDi listening on ws://127.0.0.1:58682
+Read port: 58698
+1695220915874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:58682/devtools/browser/5b46407e-5c83-4bee-b305-0879fbfb4b4f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+1695220939093	Marionette	INFO	Stopped listening on port 58698
+JavaScript warning: https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js, line 20: Script terminated by timeout at:
+clearNamespaceCache@https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js:20:110902
+bind/Ext.Function@https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js:20:63590
+elevate@https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js:20:31644
+c@https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js:20:64627
+
+Dynamically enable window occlusion 1
+1695220958967	geckodriver	INFO	Listening on 127.0.0.1:58757
+1695220962070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile8CUj0R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695220962567	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695220962644	Marionette	INFO	Listening on port 58765
+WebDriver BiDi listening on ws://127.0.0.1:58758
+Read port: 58765
+1695220962874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:58758/devtools/browser/38ecb3f5-9f71-4d40-8b65-b1b91592aa6c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+1695220978335	Marionette	INFO	Stopped listening on port 58765
+JavaScript warning: https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js, line 20: Script terminated by timeout at:
+c@https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js:20:64623
+
+Dynamically enable window occlusion 1
+1695220998147	geckodriver	INFO	Listening on 127.0.0.1:58812
+1695221001257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileqVP7b6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695221001779	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695221001853	Marionette	INFO	Listening on port 58820
+WebDriver BiDi listening on ws://127.0.0.1:58813
+Read port: 58820
+1695221002091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:58813/devtools/browser/e40b3260-a151-4806-95be-5ddbe3669d76
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa-appsrv-08c.intellective.com:9443."
+1695221015953	Marionette	INFO	Stopped listening on port 58820
+JavaScript warning: https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js, line 20: Script terminated by timeout at:
+elevate@https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js:20:31495
+c@https://qa-appsrv-08c.intellective.com:9443/u7-vignette/static/lib_vu_all-bf67b48d19698c2effa8c4c4a9d922459cad19c6.js:20:64627
+
+Dynamically enable window occlusion 1

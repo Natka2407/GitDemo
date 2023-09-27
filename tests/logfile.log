@@ -1,0 +1,6 @@
+2023-09-04 21:04:33,716 :INFO : tests.test_logging :Information statement
+2023-09-04 21:04:33,716 :WARNING : tests.test_logging :Something is in warning mode
+2023-09-04 21:04:33,717 :ERROR : tests.test_logging :A Major error has happened
+2023-09-04 21:04:33,717 :CRITICAL : tests.test_logging :Critical issue
+2023-09-04 21:07:10,512 :CRITICAL : tests.test_logging :Critical issue
+2023-09-19 15:35:29,902 :CRITICAL : tests.test_logging :Critical issue

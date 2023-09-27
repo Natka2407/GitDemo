@@ -1,0 +1,6 @@
+2023-09-20 13:31:07,005 :CRITICAL : tests.test_logging :Critical issue
+2023-09-20 13:33:06,639 :CRITICAL : tests.test_logging :Critical issue
+2023-09-20 15:41:29,572 :CRITICAL : tests.test_logging :Critical issue
+2023-09-20 15:53:06,824 :CRITICAL : tests.test_logging :Critical issue
+2023-09-20 16:00:11,950 :CRITICAL : tests.test_logging :Critical issue
+2023-09-24 14:19:54,364 :CRITICAL : tests.test_logging :Critical issue
